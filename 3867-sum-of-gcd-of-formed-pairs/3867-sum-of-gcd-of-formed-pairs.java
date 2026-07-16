@@ -12,7 +12,7 @@ class Solution {
             if(nums[i]>x){
                 x = nums[i];
             }
-            prefixGCD[i] = (int)gcd(x,nums[i]);
+            prefixGCD[i] = gcd(x,nums[i]);
         }
         Arrays.sort(prefixGCD);
         int i = 0;
