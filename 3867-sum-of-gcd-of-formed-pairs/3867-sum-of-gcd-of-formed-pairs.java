@@ -7,22 +7,12 @@ class Solution {
     }
     public long gcdSum(int[] nums) {
         int[] prefixGCD = new int[nums.length];
-        int[] mx = new int[nums.length];
-        int x = nums[0];
+        int x = 0;
         for(int i = 0;i<nums.length;i++){
             if(nums[i]>x){
-                mx[i] = nums[i];
-                x = mx[i];
+                x = nums[i];
             }
-            else{
-                mx[i] = x;
-            }
-        }
-        for(int i = 0;i<nums.length;i++){
-            prefixGCD[i] = (int)gcd(mx[i],nums[i]);
-        }
-        for(int i = 0;i<prefixGCD.length;i++){
-            System.out.print(prefixGCD[i]+" ");
+            prefixGCD[i] = (int)gcd(x,nums[i]);
         }
         Arrays.sort(prefixGCD);
         int i = 0;
