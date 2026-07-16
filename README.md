@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0078-subsets) |
 | [0946-validate-stack-sequences](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0946-validate-stack-sequences) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0946-validate-stack-sequences) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -28,12 +30,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0008-string-to-integer-atoi) |
+## Two Pointers
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Sorting
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
