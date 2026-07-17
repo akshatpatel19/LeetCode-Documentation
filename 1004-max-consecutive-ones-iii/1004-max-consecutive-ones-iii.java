@@ -8,13 +8,15 @@ class Solution {
             if(nums[right]==0){
                 zc++;
             }
-            while(zc>k){
+            if(zc>k){
                 if(nums[left]==0){
                     zc--;
                 }
                 left++;
             }
-            maxlen = Math.max(maxlen,right-left+1);
+            if(zc<=k){
+                maxlen = Math.max(maxlen,right-left+1);
+            }
             right++;
         }
         return maxlen;
