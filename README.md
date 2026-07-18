@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0008-string-to-integer-atoi) |
+| [0424-longest-repeating-character-replacement](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0424-longest-repeating-character-replacement) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0904-fruit-into-baskets) |
 | [3312-sorted-gcd-pair-queries](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Search
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
