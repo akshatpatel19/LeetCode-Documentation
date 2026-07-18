@@ -11,7 +11,6 @@ class Solution {
             int chan = right-left+1-maxfreq;
             if(chan>k){
                 hmap[s.charAt(left)-'A']--;
-                maxfreq=0;
                 left++;
             }
             if(chan<=k){
