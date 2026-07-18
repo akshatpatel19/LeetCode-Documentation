@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0078-subsets) |
+| [0904-fruit-into-baskets](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0904-fruit-into-baskets) |
 | [0946-validate-stack-sequences](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0946-validate-stack-sequences) |
 | [1004-max-consecutive-ones-iii](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/1004-max-consecutive-ones-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0904-fruit-into-baskets) |
 | [3312-sorted-gcd-pair-queries](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Search
 |  |
@@ -83,5 +85,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
