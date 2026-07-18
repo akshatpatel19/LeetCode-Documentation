@@ -12,9 +12,6 @@ class Solution {
             if(chan>k){
                 hmap[s.charAt(left)-'A']--;
                 maxfreq=0;
-                for(int i = 0;i<26;i++){
-                    maxfreq = Math.max(maxfreq,hmap[i]);
-                }
                 left++;
             }
             if(chan<=k){
