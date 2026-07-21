@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0078-subsets) |
 | [0904-fruit-into-baskets](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0930-binary-subarrays-with-sum) |
 | [0946-validate-stack-sequences](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0946-validate-stack-sequences) |
 | [1004-max-consecutive-ones-iii](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/1004-max-consecutive-ones-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0930-binary-subarrays-with-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Search
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/1004-max-consecutive-ones-iii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sliding Window
@@ -89,5 +92,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
