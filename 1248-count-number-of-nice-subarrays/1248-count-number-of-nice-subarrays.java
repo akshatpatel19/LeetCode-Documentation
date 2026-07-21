@@ -8,9 +8,9 @@ class Solution {
             if(k<0){
                 return 0;
             }
-            s+=nums[r];
+            s+=(nums[r]%2);
             while(s>k){
-                s-=nums[l];
+                s-=(nums[l]%2);
                 l++;
             }
             c+=r-l+1;
@@ -19,14 +19,6 @@ class Solution {
         return c;
     }
     public int numberOfSubarrays(int[] nums, int k) {
-        for(int i= 0;i<nums.length;i++){
-            if(nums[i]%2==1){
-                nums[i]=1;
-            }
-            else{
-                nums[i]=0;
-            }
-        }
         return help(nums,k)-help(nums,k-1);
     }
 }
