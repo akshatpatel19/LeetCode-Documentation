@@ -19,7 +19,6 @@ class Solution {
             if(i%8==0){
                 cnt++;
             }
-            System.out.print(arr[j]+"*"+cnt+" ");
             sum+=arr[j]*cnt;
             i++;
         }
