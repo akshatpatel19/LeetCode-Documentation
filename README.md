@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0078-subsets) |
+| [0486-predict-the-winner](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0628-maximum-product-of-three-numbers) |
 | [0904-fruit-into-baskets](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0930-binary-subarrays-with-sum) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -122,4 +124,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
