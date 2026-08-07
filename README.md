@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0078-subsets) |
 | [0486-predict-the-winner](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0628-maximum-product-of-three-numbers) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0042-trapping-rain-water) |
 | [0946-validate-stack-sequences](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0946-validate-stack-sequences) |
 ## Simulation
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0042-trapping-rain-water) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0042-trapping-rain-water) |
 | [0486-predict-the-winner](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0877-stone-game) |
 ## Recursion
@@ -148,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/3345-smallest-divisible-digit-product-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
