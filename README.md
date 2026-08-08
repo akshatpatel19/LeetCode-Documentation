@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3312-sorted-gcd-pair-queries](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/3312-sorted-gcd-pair-queries) |
 | [3731-find-missing-elements](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -35,10 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0078-subsets) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0078-subsets) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Math
 |  |
 | ------- |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Monotonic Stack
 |  |
