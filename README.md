@@ -178,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2181-merge-nodes-in-between-zeros](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/2181-merge-nodes-in-between-zeros) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
