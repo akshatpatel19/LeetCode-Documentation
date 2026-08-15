@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3312-sorted-gcd-pair-queries](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/3312-sorted-gcd-pair-queries) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/0078-subsets) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/akshatpatel19/LeetCode-Documentation/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
 |  |
 | ------- |
